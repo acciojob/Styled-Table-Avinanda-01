@@ -1,1 +1,15 @@
-/* your code */
+thead{background:rgb(33,90,142);
+	  color:white;	
+}
+table tbody tr:nth-child(even){
+	background-color:rgb(221,221,221);	
+}
+table{
+	width: 100%;
+	border-radius:12px;
+	overflow:hidden;
+	margin:auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	
+}
